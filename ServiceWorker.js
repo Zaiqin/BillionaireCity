@@ -1,9 +1,9 @@
 const cacheName = "ZQStudios-Billionaire City-0.13";
 const contentToCache = [
     "Build/BillionaireCity.loader.js",
-    "Build/BillionaireCity.framework.js.unityweb",
-    "Build/BillionaireCity.data.unityweb",
-    "Build/BillionaireCity.wasm.unityweb",
+    "Build/BillionaireCity.framework.js",
+    "Build/BillionaireCity.data",
+    "Build/BillionaireCity.wasm",
     "TemplateData/style.css"
 
 ];
